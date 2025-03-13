@@ -1,3 +1,3 @@
 # Layux
 
-Somos un equipo de desarrollo para series y eventos en videojuegos de cualquier magnitud para brindar entretenimiento a todo el mundo con calidad y eficiencia.
+Somos un equipo que pone al límite las capacidades de Minecraft para crear experiencias entretenidas y de calidad.
